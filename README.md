@@ -48,3 +48,8 @@ Follow these steps to get the app up and running on your local machine:
 2. The app will encrypt the image using both ECB and CBC modes and display the results.
 3. **Download** the original and encrypted images using the provided buttons.
 4. **View and download GIFs** that demonstrate the differences between the original and encrypted images.
+
+
+
+https://github.com/pendzel/ECB_Penguin_Streamlit/assets/13279141/50cf3df1-29fd-426c-9f1a-f36d7f7926b3
+
