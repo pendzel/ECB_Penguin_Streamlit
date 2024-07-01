@@ -75,7 +75,6 @@ def resize_image(image, max_size):
 
 
 #################### Streamlit App ####################
-
 ## Set Streamlit layout to wide
 st.set_page_config(layout="wide")
 # title with penguin emoji
