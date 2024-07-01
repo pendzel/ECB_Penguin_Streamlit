@@ -74,8 +74,6 @@ def resize_image(image, max_size):
 
 
 
-
-
 #################### Streamlit App ####################
 
 ## Set Streamlit layout to wide
